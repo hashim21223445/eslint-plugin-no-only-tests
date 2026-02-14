@@ -23,7 +23,7 @@
     "test": "node tests.js"
   },
   "devDependencies": {
-    "eslint": ">=3.0.0"
+    "eslint": ">=10.0.0"
   },
   "engines": {
     "node": ">=5.0.0"
